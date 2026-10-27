@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **601 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **602 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -572,6 +572,7 @@ Specialized AI tools for specific development domains and tasks.
 - [aider-github-action](https://github.com/mirrajabi/aider-github-action) - Run Aider AI assistant in your Github Workflows!
 - [aider-github-workflows](https://github.com/mirrajabi/aider-github-workflows) - Workflows that use aider-github-action
 - [CodeWave: AI-Powered Commit Intelligence](https://github.com/techdebtgpt/codewave) - a sophisticated Node.js CLI tool that leverages multiple AI agents in a coordinated discussion framework to perform in-depth analysis of Git commits.
+- [aiblame](https://github.com/celaldrg/aiblame) - CLI and GitHub Action that runs git blame over a repository and reports what share of the code at HEAD was last written in AI-assisted commits, per agent (Claude Code, Cursor, Copilot, Codex, Aider, Devin and others), detected from commit trailers and bot authors. Outputs JSON/Markdown, an SVG badge and a CI threshold check.
 
 ### Cloud & DevOps
 - [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - An AI powered kubernetes agent that runs in your terminal
